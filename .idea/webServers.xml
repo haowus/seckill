@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37ad5640-89ee-43a8-bf85-e029883dcada" name="aliyun_server_haowu" url="http://123.56.170.13:8080">
+        <fileTransfer host="123.56.170.13" port="22" rootFolder="/usr/tomcat9/webapps" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
